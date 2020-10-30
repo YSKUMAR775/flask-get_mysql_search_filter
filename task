@@ -1,0 +1,6 @@
+flask-api       : get
+rds             : search and retrieve data that starts with alphabets instead of full name
+
+return          : return list of data in json
+
+postman         : http://127.0.0.1:5000/get_info/hyd
